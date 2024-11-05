@@ -1,4 +1,5 @@
 # Data-Projects-
 
 Data Import and Cleanup Step
-![image](https://github.com/user-attachments/assets/1439b542-b47c-4dde-8d98-828d408f7228)
+![image](https://github.com/user-attachments/assets/088b533c-b7f5-458f-ad0e-e212fc721a75)
+
