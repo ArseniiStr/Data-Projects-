@@ -1,8 +1,8 @@
 # Data-Projects-
 
 
-# I. Median Salary Poland
-2. ![image](https://github.com/user-attachments/assets/9188a578-0d47-4494-ae9b-ffa44ff4028a)
+## I. Median Salary Poland
+![image](https://github.com/user-attachments/assets/9188a578-0d47-4494-ae9b-ffa44ff4028a)
 ```python
 import pandas as pd
 from datasets import load_dataset
@@ -30,8 +30,10 @@ ticks_x = plt.FuncFormatter(lambda y, pos: f'${int(y/1000)}K')
 plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
-# II.Top Skills for Data Roles
-4. ![image](https://github.com/user-attachments/assets/0b639c82-d193-4a70-8be8-7118cf1b576d)
+
+
+## II.Top Skills for Data Roles
+![image](https://github.com/user-attachments/assets/0b639c82-d193-4a70-8be8-7118cf1b576d)
 ```python
 import pandas as pd 
 from datasets import load_dataset
@@ -66,8 +68,9 @@ fig.suptitle('Counts of Top Skills in Job Postings', fontsize=15)
 plt.tight_layout(h_pad=0.5)
 plt.show()
 ```
-# III. Work Location, Degree, Insurance.
-6. ![image](https://github.com/user-attachments/assets/0cad1d62-d5c4-438d-833a-801338d58e9b)
+
+## III. Work Location, Degree, Insurance.
+![image](https://github.com/user-attachments/assets/0cad1d62-d5c4-438d-833a-801338d58e9b)
 ```python
 import pandas as pd 
 from datasets import load_dataset
