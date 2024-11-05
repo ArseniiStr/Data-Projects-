@@ -1,4 +1,4 @@
 # Data-Projects-
 
-The Data import and cleaning process.
-![image](https://github.com/user-attachments/assets/088b533c-b7f5-458f-ad0e-e212fc721a75)
+1. Median Salary Poland
+2. ![image](https://github.com/user-attachments/assets/9188a578-0d47-4494-ae9b-ffa44ff4028a)
