@@ -14,7 +14,7 @@ df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.no
 df_DA_US = df[(df['job_country'] == 'United States') & (df['job_title_short'] == 'Data Analyst')]
 df_plot = df_DA_US['job_location'].value_counts().head(10).to_frame()
 sns.set_theme(style='ticks')
-sns.barplot(data=df_plot, x='count', y='job_location', hue = 'count', palette='dark:b_r', legend = False)
+#sns.barplot(data=df_plot, x='count', y='job_location', hue = 'count', palette='dark:b_r', legend = False)
 sns.despine()
 plt.title('Counts of Job Locations for Data Analyst in the US')
 plt.xlabel('Number of Jobs')
