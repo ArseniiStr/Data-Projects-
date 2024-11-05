@@ -5,3 +5,6 @@
 
 3. Top Skills for Data Roles
 4. ![image](https://github.com/user-attachments/assets/0b639c82-d193-4a70-8be8-7118cf1b576d)
+
+5. Work Location, Degree, Insurance.
+6. ![image](https://github.com/user-attachments/assets/0cad1d62-d5c4-438d-833a-801338d58e9b)
