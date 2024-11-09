@@ -146,4 +146,22 @@ plt.title('Salary vs. Count of Job Postings for Top 10 Skills')
 plt.tight_layout()
 plt.show()
 ```
+V. Titanic
+
+![image](https://github.com/user-attachments/assets/2841219e-9d6e-4e3c-babf-dd6ea177afdd)
+
+
+![image](https://github.com/user-attachments/assets/51b40625-92a0-4d1c-beaf-b09f8e5652a3)
+
+![image](https://github.com/user-attachments/assets/c73ad78e-6e07-45be-9c95-db3b2b6a3891)
+
+![image](https://github.com/user-attachments/assets/a7cab5d9-c990-485f-9440-b07252c3c925)
+
+
+![image](https://github.com/user-attachments/assets/dfdd67f0-1281-485d-95b7-59146ed92eb2)
+
+
+
+
+
 
